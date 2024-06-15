@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I am shoing You Many different types of task in python.
+There are Many different types of task in python here.
 Just open the file that you want, and run it.
 
